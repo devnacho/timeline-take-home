@@ -22,6 +22,35 @@ You can submit the code in any way that is convenient for you - you can email us
 
 ## Option 1: Portfolio Performance Challenge
 
+### Requirements:
+
+- As a User I want a web application where I can enter the state of my portfolio of assets some day in the past and see how much money would be worth today.
+
+#### Example: 
+- Start Date: 2013-03-20
+- Initial Balance: $32500
+- Portfolio Allocation:
+  - AAPL: 20%
+  - GOOG: 50%
+  - VTI: 30%
+  
+Please make a small app where the user can enter this data and can get the results. Feel free to visualize the output as you see fit (Aggregate portfolio returns chart, Portfolio Allocation evolution over time, etc). 
+
+To obtain the historical returns you can use this free API https://www.worldtradingdata.com/
+
+- Please try to show your skills both on the back-end and in the front-end.
+- For styles feel free to use something like normalize.css and if you want a minimal css framework. Writing your own styles is appreciated.
+- If you add charts, use any charting library you prefer.
+
+## Optional (Hard Mode): 
+
+If you want to spice things up you can try doing the following things:
+
+- Let the user choose a rebalance frequency (at the end of each month or at the end of each year) where the portfolio is rebalanced to the original allocation. This means that assets with a higher allocation than the initial one have to be sold to buy assets that are below the initial allocation.
+
+- Save the inputs in a Database and generate a URL where the user can enter and retrieve his input.
+
+
 ## Option 2: Your Own Project
 
 Guidelines:
