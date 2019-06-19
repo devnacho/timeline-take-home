@@ -4,7 +4,7 @@ We are a very pragmatic team at Timeline and this extends to the way that we wor
 
 This can be a project of your own or a substantial pull request on a third party project, but some folks have done largely private or proprietary work, and this engineering challenge is for you.
 
-# What we are looking for?
+## What we are looking for?
 
 Keep it simple. Really. 2-4 hours isn't a lot of time and we really don't want you spending too much more time on it than that. It's more important for us to see how you approach the problem rather then solving it in its entirety.
 
@@ -18,9 +18,11 @@ You can submit the code in any way that is convenient for you - you can email us
 
 - A small README documenting the problem you are undertaking; documentation of any assumptions or simplifications you have made; and a short description of how to run your code.
 
-# Option 1: Portfolio Performance Challenge
+# Challenge
 
-# Option 2: Your Own Project
+## Option 1: Portfolio Performance Challenge
+
+## Option 2: Your Own Project
 
 Guidelines:
 
