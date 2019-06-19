@@ -63,7 +63,7 @@ Guidelines:
 
 - It should have a reasonably obvious purpose / use. At least something that you could explain to us in a couple of paragraphs of text (with the assumption you are explaining to experienced engineers).
 
-- It is something that has primarily been worked on by you.
+- It is something that has been worked only by you (excluding libraries). 
 
 To submit:
 
