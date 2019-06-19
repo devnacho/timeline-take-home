@@ -12,6 +12,8 @@ Treat it like production code. That is, develop your software in the same way th
 
 You can use any language, tools or solutions as you see fit. 
 
+Please use git to track progress. E.g. progressively commit changes so we can track your thought process.
+
 You can submit the code in any way that is convenient for you - you can email us a tarball, a pointer to download your code from somewhere or just a pointer to a source control repository. In your submission, you should include:
 
 - The code and what ever is required to run it. You can assume that this will run on some *nix like operating system and will have a fairly standard set of command line tools. If you require something specific, either include it inline, or document it in a way that it would be trivial for us to get and run your code.
