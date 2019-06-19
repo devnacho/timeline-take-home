@@ -26,7 +26,7 @@ You can submit the code in any way that is convenient for you - you can email us
 
 ### Requirements:
 
-- As a User I want a web application where I can enter the state of my asssets portfolio at some day in the past and see how much money would be worth today.
+- As a User I want a web application where I can enter the state of my assets portfolio at some day in the past and see how much money would be worth today.
 
 #### Example: 
 - Start Date: 2013-03-20
