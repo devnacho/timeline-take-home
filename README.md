@@ -42,7 +42,7 @@ To obtain the historical returns you can use this free API https://www.worldtrad
 - For styles feel free to use something like normalize.css and if you want a minimal css framework. Writing your own styles is appreciated.
 - If you add charts, use any charting library you prefer.
 
-## Optional (Hard Mode): 
+### Optional (Hard Mode): 
 
 If you want to spice things up you can try doing the following things:
 
