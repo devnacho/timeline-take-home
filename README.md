@@ -10,7 +10,7 @@ Keep it simple. Really. We really don't want you spending too much time. It's mo
 
 Treat it like production code. That is, develop your software in the same way that you would for any code that is intended to be deployed to production. For example, if you would usually write tests for your code then you should aim to do the same here. These may be toy exercises, but we really would like to get an idea of how you build code on a day-to-day basis.
 
-You can use any language, tools or solutions as you see fit. 
+You can use any language, tools or solutions as you see fit. Our stack is Elm on the front-end and Elixir on the back-end. We appreciate if the code is done in our tech stack but if you are not familiar with it, we prefer to see well written code in a language you are familiar with.
 
 Please use git to track progress. E.g. progressively commit changes so we can track your thought process.
 
