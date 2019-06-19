@@ -6,7 +6,7 @@ This can be a project of your own or a substantial pull request on a third party
 
 ## What we are looking for?
 
-Keep it simple. Really. 2-4 hours isn't a lot of time and we really don't want you spending too much more time on it than that. It's more important for us to see how you approach the problem rather then solving it in its entirety.
+Keep it simple. Really. We really don't want you spending too much time. It's more important for us to see how you approach the problem rather then solving it in its entirety. If it takes more than 6 hours feel free to stop and let us know how you would have done the remaining parts.
 
 Treat it like production code. That is, develop your software in the same way that you would for any code that is intended to be deployed to production. For example, if you would usually write tests for your code then you should aim to do the same here. These may be toy exercises, but we really would like to get an idea of how you build code on a day-to-day basis.
 
@@ -24,7 +24,7 @@ You can submit the code in any way that is convenient for you - you can email us
 
 ### Requirements:
 
-- As a User I want a web application where I can enter the state of my portfolio of assets some day in the past and see how much money would be worth today.
+- As a User I want a web application where I can enter the state of my asssets portfolio at some day in the past and see how much money would be worth today.
 
 #### Example: 
 - Start Date: 2013-03-20
