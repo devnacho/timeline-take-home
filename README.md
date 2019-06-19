@@ -50,6 +50,8 @@ If you want to spice things up you can try doing the following things:
 
 - Save the inputs in a Database and generate a URL where the user can enter and retrieve his input.
 
+- Deploy the code somewhere so we can play with it right away.
+
 
 ## Option 2: Your Own Project
 
